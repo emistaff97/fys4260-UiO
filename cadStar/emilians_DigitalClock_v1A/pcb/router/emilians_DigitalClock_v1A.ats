@@ -1,0 +1,6 @@
+attr	Template	"tmpl_GND"
+	(	"ppp_is_plane"	"N"	)
+
+attr	Template	"tmpl_POWER"
+	(	"ppp_is_plane"	"N"	)
+
