@@ -65,11 +65,11 @@ DynamicOptimise=1
 ClipToFile=0
 CopyToBitmap=0
 CopyToMetafile=0
-DesFileList1=<workspacepath=M:\Workspace\>emilians_DigitalClock_v1.scm
+DesFileList1=<workspacepath=M:\Workspace\>emilians_DigitalClock_v1A.pcb
 LibraryPathCombo=-1
 DoNewDesignDialogScmPcb=0
 GridType=0
-DesFileList2=<workspacepath=M:\Workspace\>emilians_DigitalClock_v1A.pcb
+DesFileList2=<workspacepath=M:\Workspace\>emilians_DigitalClock_v1.scm
 DrcDialogPosition=11,25
 ZoomToFitScale=8
 DesignTooltips=1
@@ -112,6 +112,11 @@ DocSymbol3=docsym.lib
 Symbol3=symbol.lib
 Part3=parts.idx
 PartFormat3=CADSTAR Library
+[PartsListReport]
+View=1
+File=0
+Print=0
+FileReportName=parts.lst
 [Paths]
 WorkingDirectory=<workspacepath=M:\Workspace\>
 Templates=\\Felt\elab\FYS4260\Templates\
@@ -145,12 +150,3 @@ ShowOptionsOnTransferOut=1
 NoReconnect=0
 Changes=0
 GroupTrunks=1
-FixGroupedTrunks=1
-ShowOptionsOnTransferIn=1
-[Settings]
-FileNewStyle=0
-[ViewReport]
-WindowTop=162
-WindowLeft=504
-WindowBottom=869
-WindowRight=1416
