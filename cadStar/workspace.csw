@@ -150,3 +150,10 @@ ShowOptionsOnTransferOut=1
 NoReconnect=0
 Changes=0
 GroupTrunks=1
+FixGroupedTrunks=1
+ShowOptionsOnTransferIn=1
+[ViewReport]
+WindowTop=218
+WindowLeft=511
+WindowBottom=651
+WindowRight=1173
