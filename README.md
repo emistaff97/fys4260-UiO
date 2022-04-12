@@ -1,4 +1,4 @@
 # fys4260-UiO
-This is a folder for various project that I am dealing with. It is a very ductile directory, whose content is adapted to the courses that I am following at the moment.
+Microsystems and Electronic packaging @ University of Oslo
 
-Now --> Microsystems and Electronic packaging @ University of Oslo
+Project for a Digital Clock implemented on a PCB
